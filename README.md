@@ -212,10 +212,10 @@ Dalam Model-based selection, kami menggunakan nilai coefficient sebagai feature 
 
 Hyperparameter tuning adalah proses untuk menemukan kombinasi hyperparameter terbaik yang akan menghasilkan model pembelajaran mesin yang paling optimal. Hyperparameter adalah parameter yang ditetapkan sebelum proses pelatihan dimulai dan tidak dipelajari oleh model selama pelatihan. Model yang digunakan adalah Logistic Regression dengan parameter sebagai berikut:
 
-1. "C": [0.001, 0.01, 0.1, 1, 10, 100], 
-2. "penalty": ["l1", "l2", "elasticnet", "none"], 
-3. "solver": ["liblinear", "lbfgs", "newton-cg", "sag", "saga"], 
-4. "max_iter": [100, 200, 500]
+1. `C`: [0.001, 0.01, 0.1, 1, 10, 100], 
+2. `penalty`: ["l1", "l2", "elasticnet", "none"], 
+3. `solver`: ["liblinear", "lbfgs", "newton-cg", "sag", "saga"], 
+4. `max_iter`: [100, 200, 500]
 
 ### Confusion Matrix
 
