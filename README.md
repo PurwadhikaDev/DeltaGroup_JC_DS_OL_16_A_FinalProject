@@ -109,7 +109,7 @@ Untuk mencapai tujuan tersebut, **Recall menjadi parameter paling sesuai** dalam
 
 
 <!-- DATA UNDERSTANDING -->
-## DATA UNDERSTANDING
+## Data Understanding
 Dataset Telco Customer ini berisi informasi mengenai pelanggan dari sebuah perusahaan telekomunikasi fiktif yang menyediakan layanan telepon rumah dan internet. Dataset mencakup pelanggan yang berlokasi di California, US, selama kuartal ketiga, yang mencerminkan status pelanggan, yaitu apakah mereka baru, tetap, atau berhenti berlangganan.
 
 ### Features
