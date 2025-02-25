@@ -205,7 +205,7 @@ Terdapat konklusi dan rekomendasi model dari hasil analisis, serta rekomendasi b
 
 <!-- ABOUT PROJECT -->
 ## About Project
-Project ini sebagai syarat requirement Final Project dari Purwadhika Digital Technology School.
+Project ini sebagai syarat Final Project dari Purwadhika Digital Technology School.
 
 
 <!-- CONTACT -->
