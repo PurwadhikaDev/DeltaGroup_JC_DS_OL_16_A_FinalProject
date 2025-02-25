@@ -47,7 +47,7 @@
     <li>
       <a href="#modeling-and-tuning">Modeling & Tuning</a>
       <ul>
-        <li><a href="#modeling">Modeling (Train & Test)</a></li>
+        <li><a href="#modeling">Modeling</a></li>
         <li><a href="#resampling">Resampling</a></li>
         <li><a href="#coefficient">Coefficient</a></li>
         <li><a href="#tuning">Tuning</a></li>
@@ -175,7 +175,7 @@ Langkah ini dilakukan untuk mengubah fitur dalam dataset agar model machine lear
 <!-- Modeling and Tuning -->
 ## Modeling and Tuning
 
-### Modeling (Train & Test)
+### Modeling
 
 Scaler : MinMaxScaler() 
 
